@@ -1,0 +1,5 @@
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\DescuentoPrecio\EJECUTABLE\DescuentoPrecio.exe
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\DescuentoPrecio\EJECUTABLE\DescuentoPrecio.dll
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\DescuentoPrecio\EJECUTABLE\DescuentoPrecio.deps.json
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\DescuentoPrecio\EJECUTABLE\DescuentoPrecio.runtimeconfig.json
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\DescuentoPrecio\EJECUTABLE\DescuentoPrecio.pdb
