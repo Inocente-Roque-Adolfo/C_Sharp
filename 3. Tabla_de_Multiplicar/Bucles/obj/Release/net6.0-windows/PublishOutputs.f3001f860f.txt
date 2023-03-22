@@ -1,0 +1,5 @@
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\Bucles\EJECUTABLE\Bucles.exe
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\Bucles\EJECUTABLE\Bucles.dll
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\Bucles\EJECUTABLE\Bucles.deps.json
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\Bucles\EJECUTABLE\Bucles.runtimeconfig.json
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\Bucles\EJECUTABLE\Bucles.pdb
