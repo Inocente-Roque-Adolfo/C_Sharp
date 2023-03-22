@@ -1,0 +1,5 @@
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\EJECUTABLE\ParOImpar.exe
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\EJECUTABLE\ParOImpar.dll
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\EJECUTABLE\ParOImpar.deps.json
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\EJECUTABLE\ParOImpar.runtimeconfig.json
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\EJECUTABLE\ParOImpar.pdb

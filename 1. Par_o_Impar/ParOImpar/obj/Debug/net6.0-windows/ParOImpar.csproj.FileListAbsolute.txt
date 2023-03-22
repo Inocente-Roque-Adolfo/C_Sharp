@@ -1,0 +1,17 @@
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\bin\Debug\net6.0-windows\ParOImpar.exe
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\bin\Debug\net6.0-windows\ParOImpar.deps.json
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\bin\Debug\net6.0-windows\ParOImpar.runtimeconfig.json
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\bin\Debug\net6.0-windows\ParOImpar.dll
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\bin\Debug\net6.0-windows\ParOImpar.pdb
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.csproj.AssemblyReference.cache
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.Form1.resources
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.csproj.GenerateResource.cache
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.AssemblyInfoInputs.cache
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.AssemblyInfo.cs
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.csproj.CoreCompileInputs.cache
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.dll
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\refint\ParOImpar.dll
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.pdb
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ParOImpar.genruntimeconfig.cache
+C:\Users\adoin\OneDrive\Documentos\CURSOS\5. C#\Ejercicios Practicos\ParOImpar\ParOImpar\obj\Debug\net6.0-windows\ref\ParOImpar.dll
